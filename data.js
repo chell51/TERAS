@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-panorama6",
-      "name": "Panorama6",
+      "id": "0-kitchen",
+      "name": "kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -20,15 +20,15 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": -0.32172885052496625,
-        "pitch": 0.043512320793293924,
+        "yaw": 0.3809642477210211,
+        "pitch": 0.003977160220525633,
         "fov": 1.5554834639797441
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "kitchen 1",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
